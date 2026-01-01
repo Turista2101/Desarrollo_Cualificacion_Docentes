@@ -39,7 +39,7 @@ Route::group([
     // Rutas para generar certificados
     Route::post('crear-certificados-masivos', [GenerarCertificadosController::class, 'crearCertificadosMasivos']);
 
-
+    //base ejemplo
 
 
 
